@@ -1,6 +1,6 @@
 {
   "name": "@author.io/element-optgroup-label",
-  "version": "1.0.1-beta.1",
+  "version": "1.0.1",
   "description": "author-optgroup-label custom element (web component).",
   "main": "dist/author-optgroup-label.min.js",
   "scripts": {
